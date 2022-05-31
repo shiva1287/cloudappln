@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shiva
+Build-Jdk: 17.0.2
+Implementation-Title: Micro-Customer
+Implementation-Version: 1.1
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/Micro-Custome
+ r
+Created-By: Maven Integration for Eclipse
+
